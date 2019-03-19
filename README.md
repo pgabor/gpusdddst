@@ -1,2 +1,2 @@
-# gpusdddst
-GPU Simple Discrete Dislocation Dynamics Dislocation Simulation Toolkit
+# GPUSDDDST
+GPU Simple Discrete Dislocation Dynamics Simulation Toolkit
